@@ -1,0 +1,38 @@
+.divider-wrapper{
+    position: relative;
+    background-color: gainsboro;
+    margin: 0px 0px 0px 10px;
+    padding: 5px 5px 5px 5px;
+    width:70%;
+}
+
+.divider{
+    border-width: 3px;
+    border-style: solid;
+}
+
+.icon-wrapper{
+    /*icon center*/
+    position: absolute;
+    left: 50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+
+
+    /*customize*/
+    margin: 0px 0px 0px 10px;
+    padding: 5px 5px 5px 5px; 
+    text-align:right; 
+}
+
+.fas{
+   /* icon outline*/
+    background-color: #fff; 
+    padding: 5px 10px; 
+    border-radius: 50%;
+
+    /*customize*/
+    font-size: 32px;
+    color:green;
+   
+}

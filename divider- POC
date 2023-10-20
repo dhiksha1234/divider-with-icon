@@ -1,0 +1,36 @@
+ 
+ Requirements
+ 
+    - Onclick the divder with icon preset, icon modal should open with ,right side (input nd upload option)disabled
+       - when the hr line width is changed, the icon should move along with it
+     - On clicking the icon, link mini-menu option should appear
+    -  On clicking the divider with icon, line mini-menu option should appear
+   
+
+
+
+    - Icon should have 3 desgin section option and replace option, while line should have 5 design section
+
+    Icon customization
+
+    1. Size   - set to span
+    2. Space  - set to icon wrapper
+    3. Color  - set to color 
+
+    Hr customization
+
+    1. Size 
+        width - set to divider-wrapper
+        height - set to hr (border-width)
+
+    2. Space - set to divider-wrapper
+    3. BackgroundColor - set to divider-wrapper
+    4. Line style - set to hr 
+    5. Alignment - (it is not reflected)
+
+
+
+
+
+
+
